@@ -1,13 +1,7 @@
 <?php
 
- echo "Ola meu amor";
+ echo "Ola meu amor, eu te amo muito, como estão as coisas?";
 
- echo "eu te amo mais que tudo nessa vida"; 
 
- echo "olar vitor bao demais?";|
-
- echo "Oi Vitor"
-
- echo "Oi Ana"
 
 >?
